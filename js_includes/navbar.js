@@ -11,6 +11,7 @@ document.getElementById("navbar").innerHTML = `
   <li><a href="about.html">About</a></li>
   <li><a href="screenshots.html">Screenshots</a></li>
   <li><a href="contact-dev.html">Purchase</a></li>
+  <li><a href="updates.html">Updates</a></li>
 </ul>
 <div class="clear" />
 `;
